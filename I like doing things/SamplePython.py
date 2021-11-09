@@ -1,5 +1,5 @@
 #vital online compiler: https://www.onlinegdb.com/online_python_compiler
-#next time: https://www.w3schools.com/python/python_datatypes.asp
+#next time: https://www.w3schools.com/python/python_strings_modify.asp
 x = "So I have started learning python. Huzzah for me!"
 print(x)
 print ("potato")
@@ -72,21 +72,29 @@ def casting():
       print (x,y,z,w,v)
 casting()
 def strings():
-    a = """What is quantum physics? Put simply, it’s the physics that explains how everything works: the best description we have of the nature of the particles that 
+    a = """       What is quantum physics? Put simply, it’s the physics that explains how everything works: the best description we have of the nature of the particles that 
     make up matter and the forces with which they interact. 
 
 Source: https://www.newscientist.com/definition/quantum-physics/
 """
     b = "Good day to everyone who's doing coding in their free time."
-    print(b[8])
-    for c in "Blueberries are epic":
-      print(c)   
-    if "quantum" in a :
-        print(len(a))
-        print ("Quantum mechanics is cool")
-    else :   # Also, if "quantum" not in a:
-        print( "quantum mechanics is still cool")
+    print(a.strip())
+    print(b[-8:14])
+    print (b[:17])
+    def stringlogic():
+      for c in "Blueberries are epic":
+            print(c)   
+      if "quantum" in a :
+            print(len(a))
+            print ("Quantum mechanics is cool".lower())
+      else :   #Also, <if "quantum" not in a:>
+        print( "quantum mechanics is still cool".upper())
+        print(a.replace("quantum","Quantum"))
+        print (a.replace(b))
+        stringlogic()
+        print("HALLO")
 strings()
+
 
 
 

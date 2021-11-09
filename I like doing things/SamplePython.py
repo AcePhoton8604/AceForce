@@ -73,15 +73,19 @@ def casting():
 casting()
 def strings():
     a = """What is quantum physics? Put simply, it’s the physics that explains how everything works: the best description we have of the nature of the particles that 
-    make up matter and the forces with which they interact. Quantum physics underlies how atoms work, and so why chemistry and biology work as they do. You,
-     me and the gatepost – at some level at least, we’re all dancing to the quantum tune. If you want to explain how electrons move through a computer chip, 
-     how photons of light get turned to electrical current in a solar panel or amplify themselves in a laser, or even just how the sun keeps burning, you’ll need to use 
-     quantum physics. 
+    make up matter and the forces with which they interact. 
 
 Source: https://www.newscientist.com/definition/quantum-physics/
 """
- 
-    print(a) 
+    b = "Good day to everyone who's doing coding in their free time."
+    print(b[8])
+    for c in "Blueberries are epic":
+      print(c)   
+    if "quantum" in a :
+        print(len(a))
+        print ("Quantum mechanics is cool")
+    else :   # Also, if "quantum" not in a:
+        print( "quantum mechanics is still cool")
 strings()
 
 

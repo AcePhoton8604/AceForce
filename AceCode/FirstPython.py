@@ -1,4 +1,4 @@
-#next time: https://www.w3schools.com/python/python_strings_modify.asp
+#next time: https://www.w3schools.com/python/python_strings_format.asp
 x = "So I have started learning python. Huzzah for me!"
 print(x)
 print ("potato")
@@ -78,8 +78,7 @@ Source: https://www.newscientist.com/definition/quantum-physics/
 """
     b = "Good day to everyone who's doing coding in their free time."
     print(a.strip())
-    print(b[-8:14])
-    print (b[:17])
+    print(b[0:58])
     def stringlogic():
       for c in "Blueberries are epic":
             print(c)   
@@ -94,8 +93,8 @@ Source: https://www.newscientist.com/definition/quantum-physics/
         print("HALLO")
 strings()
 def formathod():
-      age = 36
-      txt = "My name is John, and I am {}"
+      age = 8604
+      txt = "My name is AcePhoton, and I am {}"
       print(txt.format(age))
 formathod()
 

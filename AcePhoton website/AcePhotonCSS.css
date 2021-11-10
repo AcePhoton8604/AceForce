@@ -1,0 +1,23 @@
+body {
+    background-color:#effffe;
+    font-family: apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 
+    'Open Sans', 'Helvetica Neue', sans-serif;;
+    color:#003359    
+  }
+img {
+border-radius: 8px;
+}
+a {
+  color:#ff2288
+}
+table {
+  border-collapse: collapse;
+}
+.myDiv {
+  text-align: right;
+  font-size: 12px;
+}
+.Div2 {
+  text-align: right;
+  font-size: 12px;
+}

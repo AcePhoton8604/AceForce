@@ -1,0 +1,3 @@
+public mainclass void{
+    Banana
+}

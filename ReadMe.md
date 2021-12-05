@@ -10,6 +10,7 @@ I am still very new to Github and the coding world in general, so I also want to
 
 ## License
 You can find more on the license [here](License.md).
+<hr>
 
 Lastly, any help in anything here will be appreciated. I can't stress enough on how I'm new to Github, how this is all supposed to be an archive of what I'm learning
 and how I really, really want to work on this more.

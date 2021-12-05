@@ -16,6 +16,6 @@ Lastly, any help in anything here will be appreciated. I can't stress enough on 
 and how I really, really want to work on this more.
 
 
-*So I don't want any complaints on having Python, C++ and java on the same repository*
+*So I don't want any complaints on having Python, C++ and Java in the same place.*
 
 Thanks for visiting. Have a good one!

@@ -8,6 +8,8 @@ I have also uploaded my other works, including images, models, etc.
 
 I am still very new to Github and the coding world in general, so I also want to use this repository as a platform to explore more of Github's features. Please forgive the very ammeteur and cluttered repository for this reason.
 
+## License
+You can find more on the license [here](License.md).
 
 Lastly, any help in anything here will be appreciated. I can't stress enough on how I'm new to Github, how this is all supposed to be an archive of what I'm learning
 and how I really, really want to work on this more.

@@ -1,6 +1,6 @@
 # License
 
-**O*kayyy....*
+***O****kayyy....*
 
 I never expected to have this repository made public for some reason so there isn't a direct license. Most of the stuff here isn't really exclusive or anything, so you are free to use it at will. Additionally, I intend to enhance [this CSS file](AceCode/EonsCSS.css)and make it more like an API or a Library (excuse me, I am unfamiliar with these particular terms), so it is kind-of intended to be used by everyone.
 

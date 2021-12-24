@@ -19,3 +19,8 @@ and how I really, really want to work on this more.
 *So I don't want any complaints on having Python, C++ and Java in the same place.*
 
 Thanks for visiting. Have a good one!
+
+# Notes
+
+1. "Have you tried making a Discord bot? You can make one with Python or JS and it's fun [redacted]"                                         
+                                                                                   -Probably Not Theriz

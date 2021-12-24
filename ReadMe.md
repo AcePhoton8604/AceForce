@@ -23,4 +23,4 @@ Thanks for visiting. Have a good one!
 # Notes
 
 1. "Have you tried making a Discord bot? You can make one with Python or JS and it's fun [redacted]"                                         
-                                                                                   -Probably Not Theriz
+                                                                                   -Probably Not Therzis
